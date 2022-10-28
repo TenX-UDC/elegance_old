@@ -17,3 +17,8 @@ PRODUCT_PACKAGES += \
     QSDefault \
     QSMinimal \
     QSStroke
+
+# QQS Max Rows
+PRODUCT_PACKAGES += \
+    RowsDefault \
+    RowsExtra
