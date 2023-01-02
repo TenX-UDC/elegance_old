@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "FontNowOverlay",
-    theme: "FontNow",
+    name: "ClockFontHeadlineOverlay",
+    theme: "ClockFontHeadline",
     product_specific: true,
 }
