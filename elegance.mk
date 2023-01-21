@@ -213,7 +213,16 @@ PRODUCT_PACKAGES += \
     FontVladivostok \
     FontVladivostokOverlay \
     FontVolte \
-    FontVolteOverlay
+    FontVolteOverlay \
+    FontCircularStdOverlay \
+    FontBlazmaHyperwaveOverlay \
+    FontCardelinaOverlay \
+    FontCookieRunOverlay \
+    FontGemsbuckPunkMonoObliqueOverlay \
+    FontGiganticFSHezaedrusOverlay \
+    FontJicaletaOverlay \
+    FontJustSansOverlay \
+    FontPunkMonoOverlay
 
 # Lockscreen clock fonts
 PRODUCT_PACKAGES += \
