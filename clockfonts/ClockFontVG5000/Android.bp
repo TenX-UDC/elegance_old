@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "FontVolteOverlay",
-    theme: "FontVolte",
+    name: "ClockFontVG5000Overlay",
+    theme: "ClockFontVG5000",
     product_specific: true,
 }

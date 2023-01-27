@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "FontRoutedGothicRobotoCondensedOverlay",
-    theme: "FontRoutedGothicRobotoCondensed",
+    name: "ClockFontOdibeeSansOverlay",
+    theme: "ClockFontOdibeeSans",
     product_specific: true,
 }
