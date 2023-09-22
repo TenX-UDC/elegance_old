@@ -269,3 +269,48 @@ PRODUCT_PACKAGES += \
     ClockFontProdeltCoOverlay \
     ClockFontRubikGlitchOverlay \
     ClockFontTourneyMediumOverlay
+
+# Signal / WiFi Icons
+PRODUCT_PACKAGES += \
+	AcherusWiFiOverlay \
+	AcherusSignalOverlay \
+	AquariumSignalOverlay \
+	BarsSignalOverlay \
+	BarsWiFiOverlay \
+	DeepSignalOverlay \
+	DoraSignalOverlay \
+	DoraWiFiOverlay \
+	GradiconSignalOverlay \
+	GradiconWiFiOverlay \
+	HuaweiSignalOverlay \
+	IosSignalOverlay \
+	InsideSignalOverlay \
+	InsideWiFiOverlay \
+	NothingDotSignalOverlay \
+	NothingDotWiFiOverlay \
+	OutlineWiFiOverlay \
+	OutlineSignalOverlay \
+	PillsSignalOverlay \
+	PavlovaWiFiOverlay \
+	PUISignalOverlay \
+	RoundSignalOverlay \
+	RoundWiFiOverlay \
+	SneakySignalOverlay \
+	SneakyWiFiOverlay \
+	StrokeSignalOverlay \
+	StrokeWiFiOverlay \
+	WavySignalOverlay \
+	WavyWiFiOverlay \
+	WeedWiFiOverlay \
+	XperiaSignalOverlay \
+	XperiaWiFiOverlay \
+	ZigZagSignalOverlay \
+	ZigZagWiFiOverlay \
+	ForlornWiFiOverlay \
+	AuroraSignalOverlay \
+	ForlornSignalOverlay \
+	PlumpySignalOverlay \
+	AuroraWiFiOverlay \
+	PlumpyWiFiOverlay \
+	FaintUISignalOverlay \
+	FaintUIWiFiOverlay
