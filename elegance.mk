@@ -12,16 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# QS Tile styles
-PRODUCT_PACKAGES += \
-    QSDefault \
-    QSMinimal \
-    QSStroke
-
-# QQS Max Rows
-PRODUCT_PACKAGES += \
-    RowsDefault \
-    RowsExtra
 
 # Prebuilt files to copy
 PRODUCT_COPY_FILES += \
