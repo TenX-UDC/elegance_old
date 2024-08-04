@@ -104,7 +104,6 @@
         FontComicNeueOverlay \
         FontDecalotypeOverlay \
         FontExo2Overlay \
-        FontFantasqueSansMonoOverlay \
         FontFleuronOverlay \
         FontFinlandicaOverlay \
         FontGoogleSansOverlay \
@@ -123,11 +122,10 @@
         FontOpenSauceOverlay \
         FontPanamericanaOverlay \
         FontPisselOverlay \
+        FontPoppinsSourceOverlay \
         FontPTSansMonoOverlay \
-        FontQTVagaroundOverlay \
         FontReemKufiOverlay \
         FontRobotoOverlay \
-        FontRouterGothicNarrowOverlay \
         FontScientificaOverlay \
         FontSofiaSansOverlay \
         FontUniversalisRegOverlay \
@@ -207,6 +205,15 @@
         ClockFontProdeltCoOverlay \
         ClockFontRubikGlitchOverlay \
         ClockFontTourneyMediumOverlay
+
+        # Prebuilt files to copy
+        PRODUCT_COPY_FILES += \
+            vendor/overlays/Elegance/fonts/prebuilt/fonts_shishufied_full.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml \
+            vendor/overlays/Elegance/fonts/prebuilt/fonts_shishufied_sysfonts.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml \
+            vendor/overlays/Elegance/fonts/prebuilt/fonts_shishufied_lockfonts.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml \
+            vendor/overlays/Elegance/fonts/prebuilt/fonts_shishufied_core.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
+
+
 
 
 # Icon Packs
